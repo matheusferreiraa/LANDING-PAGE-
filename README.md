@@ -1,5 +1,8 @@
 # LANDING-PAGE-
-COLOCANDO OS ESTUDOS EM PRÁTICA, CONSEGUI CRIAR UMA LANDING PAGE BEM BASICA COM ALGUNS EFEITOS QUE APRENDI
+COLOCANDO OS ESTUDOS EM PRÁTICA, CONSEGUI CRIAR UMA LANDING PAGE BEM BASICA COM ALGUNS EFEITOS QUE APRENDI,PRETENDO DEIXALO MAIS COMPLETO E COM MAIS FUNCIONALIDADES
+
+
+##linguagens usadas:
 
 <div style="display: inline_block" >
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -9,3 +12,5 @@ COLOCANDO OS ESTUDOS EM PRÁTICA, CONSEGUI CRIAR UMA LANDING PAGE BEM BASICA COM
 <p> 
     <img width="900" height="500" src="FyUl3u4RQi.gif" >
 </p>
+
+## projeto em construção!!
