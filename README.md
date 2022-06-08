@@ -7,5 +7,5 @@ COLOCANDO OS ESTUDOS EM PRÁTICA, CONSEGUI CRIAR UMA LANDING PAGE BEM BASICA COM
 </div>
 
 <p> 
-    <img width="900" height="500" src="" >
+    <img width="900" height="500" src="FyUl3u4RQi.gif" >
 </p>
