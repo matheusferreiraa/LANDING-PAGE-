@@ -9,6 +9,8 @@ COLOCANDO OS ESTUDOS EM PRÁTICA, CONSEGUI CRIAR UMA LANDING PAGE BEM BASICA COM
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+## 
+
 <p> 
     <img width="900" height="500" src="FyUl3u4RQi.gif" >
 </p>
